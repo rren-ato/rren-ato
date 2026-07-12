@@ -84,6 +84,18 @@ Portfolio con estética "liquid glass" (vidrio líquido) construido desde cero, 
 
 ---
 
+### Contribuciones (el gusanito 🐍)
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rren-ato/rren-ato/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rren-ato/rren-ato/output/github-contribution-grid-snake.svg" />
+  <img alt="snake animado comiendo el gráfico de contribuciones" src="https://raw.githubusercontent.com/rren-ato/rren-ato/output/github-contribution-grid-snake.svg" />
+</picture>
+</div>
+
+---
+
 ### Conectemos
 
 <!-- dejá solo los links que realmente uses -->
