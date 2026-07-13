@@ -58,12 +58,12 @@ Portfolio con estética "liquid glass" (vidrio líquido) construido desde cero, 
 ### GitHub stats
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=rren-ato&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=rren-ato&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=86400" />
 <img height="165" src="https://github-readme-streak-stats.demolab.com/?user=rren-ato&theme=tokyonight&hide_border=true&background=0D1117" />
 </div>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rren-ato&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rren-ato&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=86400" />
 </div>
 
 ---
@@ -106,3 +106,4 @@ Portfolio con estética "liquid glass" (vidrio líquido) construido desde cero, 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
 
 </div>
+
