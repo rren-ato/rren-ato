@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&color=A78BFA&center=true&vCenter=true&width=460&lines=aprendiendo+HTML+%2B+CSS+%2B+JavaScript;React+en+progreso;creative+coding+%2B+liquid+glass;todav%C3%ADa+no+soy+junior+%E2%80%94+y+esta+bien)](https://github.com/rren-ato)
 
 <!-- reemplazá esta URL por la real de tu portfolio en Vercel -->
-[![Portfolio](https://img.shields.io/badge/portfolio-visitar-8b5cf6?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/rren-ato/liquid-glass-portfolio)
+[![Portfolio](https://img.shields.io/badge/portfolio-visitar-8b5cf6?style=for-the-badge&logo=vercel&logoColor=white)](https://tu-portfolio.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-rren--ato-6d28d9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rren-ato)
 
 </div>
@@ -58,12 +58,12 @@ Portfolio con estética "liquid glass" (vidrio líquido) construido desde cero, 
 ### GitHub stats
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=rren-ato&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=86400" />
+<img height="165" src="https://github-readme-stats-rho-livid-75.vercel.app/api?username=rren-ato&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 <img height="165" src="https://github-readme-streak-stats.demolab.com/?user=rren-ato&theme=tokyonight&hide_border=true&background=0D1117" />
 </div>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rren-ato&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=86400" />
+<img src="https://github-readme-stats-rho-livid-75.vercel.app/api/top-langs/?username=rren-ato&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </div>
 
 ---
@@ -106,4 +106,5 @@ Portfolio con estética "liquid glass" (vidrio líquido) construido desde cero, 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
 
 </div>
+
 
