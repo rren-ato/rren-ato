@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&color=A78BFA&center=true&vCenter=true&width=460&lines=aprendiendo+HTML+%2B+CSS+%2B+JavaScript;React+en+progreso;creative+coding+%2B+liquid+glass;todav%C3%ADa+no+soy+junior+%E2%80%94+y+esta+bien)](https://github.com/rren-ato)
 
 <!-- reemplazá esta URL por la real de tu portfolio en Vercel -->
-[![Portfolio](https://img.shields.io/badge/portfolio-visitar-8b5cf6?style=for-the-badge&logo=vercel&logoColor=white)](https://tu-portfolio.vercel.app)
+[![Portfolio](https://img.shields.io/badge/portfolio-visitar-8b5cf6?style=for-the-badge&logo=vercel&logoColor=white)](https://liquid-glass-portfolio-psi.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-rren--ato-6d28d9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rren-ato)
 
 </div>
