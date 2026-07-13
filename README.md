@@ -49,7 +49,7 @@ Portfolio con estética "liquid glass" (vidrio líquido) construido desde cero, 
 
 **Repo:** [rren-ato/liquid-glass-portfolio](https://github.com/rren-ato/liquid-glass-portfolio)
 <!-- reemplazá esto por la URL real de Vercel -->
-**Demo en vivo:** [tu-portfolio.vercel.app](https://tu-portfolio.vercel.app)
+**Demo en vivo:** [tu-portfolio.vercel.app](https://liquid-glass-portfolio-psi.vercel.app/)
 
 </details>
 
