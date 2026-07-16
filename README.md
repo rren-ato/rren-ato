@@ -1,8 +1,10 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=rren-ato&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=aprendiendo%20a%20construir%20cosas&descAlignY=58&descSize=16)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&color=A78BFA&center=true&vCenter=true&width=460&lines=aprendiendo+HTML+%2B+CSS+%2B+JavaScript;React+en+progreso;creative+coding+%2B+liquid+glass;todav%C3%ADa+no+soy+junior+%E2%80%94+y+esta+bien)](https://github.com/rren-ato)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rren-ato/rren-ato/main/assets/hero-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rren-ato/rren-ato/main/assets/hero-light.svg" />
+  <img alt="hero banner" src="https://raw.githubusercontent.com/rren-ato/rren-ato/main/assets/hero-dark.svg" width="100%" />
+</picture>
 
 <!-- reemplazá esta URL por la real de tu portfolio en Vercel -->
 [![Portfolio](https://img.shields.io/badge/portfolio-visitar-8b5cf6?style=for-the-badge&logo=vercel&logoColor=white)](https://liquid-glass-portfolio-psi.vercel.app/)
@@ -49,7 +51,7 @@ Portfolio con estética "liquid glass" (vidrio líquido) construido desde cero, 
 
 **Repo:** [rren-ato/liquid-glass-portfolio](https://github.com/rren-ato/liquid-glass-portfolio)
 <!-- reemplazá esto por la URL real de Vercel -->
-**Demo en vivo:** [rren-ato.vercel.app](https://liquid-glass-portfolio-psi.vercel.app/)
+**Demo en vivo:** [mi-portafolio.vercel.app](https://liquid-glass-portfolio-psi.vercel.app/)
 
 </details>
 
