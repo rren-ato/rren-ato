@@ -18,7 +18,7 @@
 
 Estoy empezando en programación — todavía armando las bases (lógica, estructuras, criterio de diseño) más que acumulando años de experiencia. Prefiero mostrar el proceso real en vez de un perfil que finja más de lo que hay.
 
-Lo que más me atrae es el punto donde el código deja de ser solo funcional y empieza a ser expresivo: animaciones, creative coding, interfaces que se sienten vivas.
+Lo que más me atrae es el punto donde el código deja de ser solo funcional y empieza a ser expresivo: animaciones, creative coding, interfaces que se sienten vivas
 
 ---
 
