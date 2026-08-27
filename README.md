@@ -81,7 +81,7 @@ Portfolio con estética "liquid glass" (vidrio líquido) construido desde cero, 
 ### Actividad
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rren-ato&theme=react-dark&hide_border=true&bg_color=0D1117&color=a78bfa&line=8b5cf6&point=ffffff" />
+<img src="https://rren-ato-activity-graph.vercel.app/graph?username=rren-ato&theme=react-dark&hide_border=true&bg_color=0D1117&color=a78bfa&line=8b5cf6&point=ffffff" />
 </div>
 
 ---
