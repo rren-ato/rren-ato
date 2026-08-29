@@ -70,13 +70,13 @@ Portfolio con estética "liquid glass" (vidrio líquido) construido desde cero, 
 
 ---
 
-### Trofeos
+### Logros
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=rren-ato&theme=discord&no-frame=true&column=4&margin-w=8&margin-h=8" />
-</div>
 
----
+[![Ethereum Lima Hackathon 2026](https://img.shields.io/badge/Ethereum%20Lima%20Hackathon%202026-Participante-8b5cf6?style=for-the-badge&logo=ethereum&logoColor=white)](./assets/certificates/ethereum-lima-hackathon-2026.svg)
+
+</div>
 
 ### Actividad
 
